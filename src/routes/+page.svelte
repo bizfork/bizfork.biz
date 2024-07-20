@@ -1,5 +1,8 @@
-<div>
+<svelte:head>
+  <title>Bizfork - B2B solutions for a late-stage-capitalism world</title>
+</svelte:head>
 
+<div>
   <img class="header-img" src="/favicon.png" alt="Bizfork logo" />
 
   <h1>Bizfork</h1>
