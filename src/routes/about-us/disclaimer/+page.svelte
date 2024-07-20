@@ -88,6 +88,9 @@
   <p>
     ok that should cover our asses hopefully
   </p>
+  <p>
+    Thanks, chatgpt
+  </p>
 </Article>
 
 <style>
