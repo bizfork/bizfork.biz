@@ -1,6 +1,12 @@
+<script>
+    import Menu from "$lib/Menu.svelte";
+
+</script>
 <svelte:head>
   <title>Bizfork - B2B solutions for a late-stage-capitalism world</title>
 </svelte:head>
+
+<Menu selected="home" />
 
 <div>
   <img class="header-img" src="/favicon.png" alt="Bizfork logo" />
@@ -24,6 +30,7 @@
   }
 
   h1 {
+    margin-top: 0px;
     font-size: 10rem;
   }
 
