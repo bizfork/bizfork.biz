@@ -10,6 +10,9 @@
   <a href="/success-stories" class="menu-item {selected === 'success-stories' ? 'selected' : ''}">
     <h1>Success stories</h1>
   </a>
+  <a href="/about-us" class="menu-item {selected === 'about-us' ? 'selected' : ''}">
+    <h1>About us</h1>
+  </a>
 </div>
 
 <style>
